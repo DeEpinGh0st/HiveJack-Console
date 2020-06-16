@@ -1,0 +1,5 @@
+D:\Projects\C#\HiveJack-Console\bin\Debug\HiveJack-Console.exe
+D:\Projects\C#\HiveJack-Console\bin\Debug\HiveJack-Console.pdb
+D:\Projects\C#\HiveJack-Console\obj\Debug\HiveJack-Console.csproj.CoreCompileInputs.cache
+D:\Projects\C#\HiveJack-Console\obj\Debug\HiveJack-Console.exe
+D:\Projects\C#\HiveJack-Console\obj\Debug\HiveJack-Console.pdb
